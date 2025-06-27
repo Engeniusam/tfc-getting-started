@@ -1,2 +1,11 @@
 .terraform
 terraform.tfstate*
+
+// ...existing code...
+terraform_cloud/
+
+// ...existing code...
+tfc-getting-started
+
+// ...existing code...
+/Day18/Submissions/Engeniusam/
